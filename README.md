@@ -1,7 +1,7 @@
 # **Jazz Bootcamp Challenge 1**
 ==============================
 
->I had a lot of trouble with committing this project to git properly as this is my first time learning git! .>This project was primarily about learning what should be changed and improved in code that already seems to >work, while mainly focusing on making the website in question more accessible for people with disabilities on >the user end.  
+>I had a lot of trouble with committing this project to git properly as this is my first time learning git! .This project was primarily about learning what should be changed and improved in code that already seems to work, while mainly focusing on making the website in question more accessible for people with disabilities on the user end.  
 
 Some things you'll see from my git commits that I improved:
 -----------------------------------------------------------
