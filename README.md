@@ -1,9 +1,17 @@
-**Jazz Bootcamp Challenge 1**
+# **Jazz Bootcamp Challenge 1**
 ==============================
 
->I had a lot of trouble with committing this project to git properly as this is my first time learning git! This project was primarily about learning what should be changed and improved in code that already seems to work, while mainly focusing on making the website in question more accessible for people with disabilities on the user end. One road block that I came across in this project was organizing directories on my desktop, and then having them not push to git properly in the command line. I did end up googling a lot of things as well, which turned out to be very helpful.
+##I had a lot of trouble with committing this project to git properly as this is my first time learning git! This project was primarily about learning what should be changed and improved in code that already seems to work, while mainly focusing on making the website in question more accessible for people with disabilities on the user end. One road block that I came across in this project was organizing directories on my desktop, and then having them not push to git properly in the command line. I did end up googling a lot of things as well, which turned out to be very helpful.
 
-Some things you'll see from my git commits that I improved:
+## Built With
+* HTML
+* CSS
+
+## Website
+
+
+
+##Some things you'll see from my git commits that I improved:
 -----------------------------------------------------------
 
 * Consolidation of css properties of the code that were _repetitive_.
@@ -15,3 +23,6 @@ Some things you'll see from my git commits that I improved:
 * Linked headers to their place on the page for easier access.
 
 * Adding alt attributes to images for easier accessibilities. -- I want to point out here that I didn't end up committing this properly on Github at the time that I did it. I realized this after it was already too late. Another valuable lesson!
+
+
+Made with ❤️ by jasmin3ashl3y
